@@ -1,0 +1,5 @@
+[✓] Python version 3.13.7 installed
+[✓] Virtual environment active
+[✓] Django 5.2.6 clsinstalled
+[✓] Runserver working
+[✓] Git remote set to https://github.com/3jisinism/activities.git
